@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{785CFC85-5040-411C-BC8D-F62596E78CD9}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Samples.Dates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Samples.Dates\Message.cs">
+    <Files>
+      <File FileName="Samples.Dates\Program.cs" Line="12" Column="23" />
+      <File FileName="Samples.Dates\Message.cs" Line="13" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
