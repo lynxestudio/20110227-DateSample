@@ -8,7 +8,6 @@ Básicamente existía una clase mensaje con una propiedad DateCreated como en el
 <p align="justify">
 Al crear el mensaje, el programa debía notificar con un aviso, indicando fecha, hora, minutos y segundos, algo así como lo siguiente:
 </p>
-<img src="MainClass.png">
 <pre>
 “Mensaje recibido 24-02-2011 a las 22:04:12”
 </pre>
@@ -21,7 +20,7 @@ Sin embargo el mensaje lo notificaba de la siguiente forma:
 <p align="justify">
 El código principal era más o menos asi
 </p>
-<img src="">
+<img src="MainClass.png">
 <p align="justify">
 Al revisar el código descubrí que al usar la estructura DateTime utilice la propiedad Today en lugar de la propiedadNow .
 Ambas propiedades obtienen el valor de la fecha actual, la diferencia es que en Today la parte correspondiente al tiempo se establece en 00:00:00.
