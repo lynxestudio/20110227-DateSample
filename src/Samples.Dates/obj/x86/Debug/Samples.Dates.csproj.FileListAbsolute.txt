@@ -1,4 +1,0 @@
-C:\Users\Martin\Documents\Projects\Samples.Dates\Samples.Dates\bin\Debug\Samples.Dates.exe
-C:\Users\Martin\Documents\Projects\Samples.Dates\Samples.Dates\bin\Debug\Samples.Dates.pdb
-C:\Users\Martin\Documents\Projects\Samples.Dates\Samples.Dates\obj\x86\Debug\Samples.Dates.exe
-C:\Users\Martin\Documents\Projects\Samples.Dates\Samples.Dates\obj\x86\Debug\Samples.Dates.pdb
